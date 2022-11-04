@@ -1,4 +1,6 @@
 #*.csproj
+*.rar
+
 [Tt]emp
 [Ll]ibrary
 #[Ll]ogs
