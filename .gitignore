@@ -1,5 +1,5 @@
-*.csproj
+#*.csproj
 [Tt]emp
 [Ll]ibrary
-[Ll]ogs
-[Pp]ackages
+#[Ll]ogs
+#[Pp]ackages
